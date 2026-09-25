@@ -6,7 +6,10 @@ def divide(x,y):
   return x/y
 def multiply(x,y):
   return x*y
+def power(x,y):
+  return x**y
 print(add(4,5))
 print(subtract(4,5))
 print(divide(4,5))
 print(multiply(4,5))
+print(power(4,5))
